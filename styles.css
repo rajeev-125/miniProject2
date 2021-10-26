@@ -1,0 +1,38 @@
+.c1 {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    background-color: black;
+    color: white;
+    height: 100%;
+    width: 450px;
+    opacity: 0.5;
+  }
+
+  .c2 {
+    position: absolute;
+    top: 50px;
+    right: 80px;
+    font-size: 40px; 
+    color: white;
+    width: 550px;
+    height: 30px;
+  }
+  .c4 {
+    position: absolute;
+    top: 150px;
+    left:20px;
+    font-size: 20px; 
+    color: white;
+   
+  }
+
+  .c3 {
+    background-color: darkturquoise;
+   
+  }
